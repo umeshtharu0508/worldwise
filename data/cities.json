@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "9d5c",
+      "cityName": "Huesa del Comun",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-24T21:33:52.440Z",
+      "notes": "ASDADAD",
+      "position": {
+        "lat": "41.0130657870063",
+        "lng": "-0.9887695312500001"
+      }
+    },
+    {
+      "id": "2861",
+      "cityName": "San Agustin del Guadalix",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-24T21:34:14.575Z",
+      "notes": "ADSAD",
+      "position": {
+        "lat": "40.68063802521456",
+        "lng": "-3.6035156250000004"
+      }
+    },
+    {
+      "id": "fc67",
+      "cityName": "Fuentes de Ano",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-24T21:34:23.764Z",
+      "notes": "",
+      "position": {
+        "lat": "41.0130657870063",
+        "lng": "-4.899902343750001"
+      }
+    },
+    {
+      "id": "4b8d",
+      "cityName": "Requena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-24T21:34:56.338Z",
+      "notes": "sdazfasdf",
+      "position": {
+        "lat": "39.470125122358176",
+        "lng": "-1.2744140625000002"
+      }
+    },
+    {
+      "id": "05b8",
+      "cityName": "Barrax",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-24T21:44:42.815Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "38.976492485539424",
+        "lng": "-2.1972656250000004"
+      }
+    },
+    {
+      "id": "cec1",
+      "cityName": "Foggaret Ezzaou",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-08-29T07:27:26.720Z",
+      "notes": "jkgkjgjk",
+      "position": {
+        "lat": "27.72243591897343",
+        "lng": "3.1201171875"
+      }
+    }
+  ]
+}
