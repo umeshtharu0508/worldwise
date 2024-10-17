@@ -21,3 +21,4 @@ Tools used:
 8.	Custom hooks like useGeolocation() is used for getting our current location and useURLPosition() is used for using search parameters.
 9.	 Context-API is also used for global state management and also for user authentication i.e. login and logout purposes.
 
+In this project some starter html(boiler-plate) code is already given by instructor and css styling also completely given by instructor but all core React coding and logic part of react components are practiced by me in the guidance of instructor(Jonas Schmedtmann)
